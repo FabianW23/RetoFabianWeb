@@ -1,0 +1,34 @@
+co/com/tevolvers/certification/userinterfaces/ProductPage.java
+ co.com.tevolvers.certification.userinterfaces.ProductPage
+co/com/tevolvers/certification/tasks/Login.java
+ co.com.tevolvers.certification.tasks.Login
+co/com/tevolvers/certification/interactions/AddProductToCart.java
+ co.com.tevolvers.certification.interactions.AddProductToCart
+co/com/tevolvers/certification/tasks/AddProducts.java
+ co.com.tevolvers.certification.tasks.AddProducts
+co/com/tevolvers/certification/interactions/Wait.java
+ co.com.tevolvers.certification.interactions.Wait
+co/com/tevolvers/certification/userinterfaces/WomanPage.java
+ co.com.tevolvers.certification.userinterfaces.WomanPage
+co/com/tevolvers/certification/questions/TotalPriceValidation.java
+ co.com.tevolvers.certification.questions.TotalPriceValidation
+co/com/tevolvers/certification/userinterfaces/HomePage.java
+ co.com.tevolvers.certification.userinterfaces.HomePage
+co/com/tevolvers/certification/tasks/Checkout.java
+ co.com.tevolvers.certification.tasks.Checkout
+co/com/tevolvers/certification/userinterfaces/CheckoutPage.java
+ co.com.tevolvers.certification.userinterfaces.CheckoutPage
+co/com/tevolvers/certification/tasks/LoginFailed.java
+ co.com.tevolvers.certification.tasks.LoginFailed
+co/com/tevolvers/certification/utils/Credentials.java
+ co.com.tevolvers.certification.utils.Credentials
+co/com/tevolvers/certification/questions/LoginFailedValidation.java
+ co.com.tevolvers.certification.questions.LoginFailedValidation
+co/com/tevolvers/certification/questions/OrderConfirmationValidation.java
+ co.com.tevolvers.certification.questions.OrderConfirmationValidation
+co/com/tevolvers/certification/userinterfaces/AccountPage.java
+ co.com.tevolvers.certification.userinterfaces.AccountPage
+co/com/tevolvers/certification/questions/LoginValidation.java
+ co.com.tevolvers.certification.questions.LoginValidation
+co/com/tevolvers/certification/userinterfaces/LoginPage.java
+ co.com.tevolvers.certification.userinterfaces.LoginPage
